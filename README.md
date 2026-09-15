@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=harshit-codes-07&color=E50914&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E50914&center=true&vCenter=true&width=435&lines=Building+Logic+%26+Clean+Code;Python+Enthusiast+%26+Learner;Entering+the+Genjutsu...;Leveling+up+every+single+day." alt="Typing SVG" />
   </a>
