@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Yahan Itachi right side me fix ho jayega -->
-<img align="right" src="itachi.jpg" width="220" alt="Itachi Uchiha" />
+<!-- Yahan Itachi right side me aayega. Niche src="" <img width="400" height="711" alt="image" src="https://github.com/user-attachments/assets/128941f4-0825-495c-952d-95056d9121a2" />
+>
+<img align="right" src="YAHAN_APNA_COPY_KIYA_HUA_LINK_DAALEIN" width="220" alt="Itachi Uchiha" />
+
+<!-- Profile Views Counter (Red Theme) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshit-codes-07&color=E50914&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
@@ -61,3 +67,13 @@ Passionate about **Python**, **Web Development**, and solving complex problems.
   <!-- Top Languages (Red/Dark Theme) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes-07&layout=compact&theme=radical&bg_color=0D1117&title_color=E50914&text_color=ffffff&border_color=E50914" alt="Top Langs" width="45%" />
 </div>
+
+<br>
+
+### ✦ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
+<div align="left">
+  <a href="https://t.me/itachii0007">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
