@@ -59,13 +59,14 @@ Passionate about **Python**, **Web Development**, and solving complex problems.
 
 ---
 
+---
+
 ### ✦ 𝐒𝐡𝐚𝐫𝐢𝐧𝐠𝐚𝐧 𝐒𝐭𝐚𝐭𝐬
 <div align="left">
-  <!-- GitHub Streak Stats (Red/Dark Theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-codes-07&theme=blood&background=0D1117&border=E50914&stroke=E50914&ring=E50914&fire=E50914" alt="GitHub Streak" width="48%" />
+  <!-- Itachi Theme: Pure Black Background, Blood Red Text & Borders -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-codes-07&show_icons=true&bg_color=000000&title_color=E50914&text_color=ffffff&icon_color=E50914&border_color=E50914&border_width=2" alt="Itachi Stats" width="48%" />
   
-  <!-- Top Languages (Red/Dark Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes-07&layout=compact&theme=radical&bg_color=0D1117&title_color=E50914&text_color=ffffff&border_color=E50914" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes-07&layout=compact&bg_color=000000&title_color=E50914&text_color=ffffff&border_color=E50914&border_width=2" alt="Top Langs" width="45%" />
 </div>
 
 <br>
