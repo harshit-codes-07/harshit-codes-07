@@ -16,47 +16,50 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <!-- 🔥 APNI ITACHI KI PHOTO KO YAHAN DRAG KARKE DROP KAREIN 🔥 -->
- 
- <img width="400" height="711" alt="image" src="https://github.com/user-attachments/assets/14cb9d5f-a27f-4fe1-966e-78f7f7f4f816" />
- 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E50914&center=true&vCenter=true&width=435&lines=Building+Logic+%26+Clean+Code;Python+Enthusiast+%26+Learner;Entering+the+Genjutsu...;Leveling+up+every+single+day." alt="Typing SVG" />
+  </a>
 
-  <br>
+  <br><br>
 
-  # ⋆ ˚｡⋆ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 ⋆ ˚｡⋆
-  
   *“It is not wise to judge others based on your own preconceptions and by their appearances.”* — **Itachi Uchiha** 🦅
 
-  <br>
-  
-  <p>
-    Building logic, writing code, and seeking growth.<br>
-    Passionate about <b>Python</b>, <b>Web Development</b>, and solving complex problems.
-  </p>
-
-  <hr style="width: 50%;" />
+  <hr style="width: 60%; border: 1px solid #30363d;" />
 
 </div>
 
 ### ✦ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-* 🔭 Currently mastering **Python** and task automation.
-* 🌱 Exploring the front-end universe with **HTML, CSS, and JavaScript**.
-* 🥋 Off-screen, I level up through home calisthenics and solving math/physics challenges.
-* ⚡ Anime enthusiast (Naruto is a favorite, obviously!).
+* 🔭 **Focus:** Building core logic in **Python** and automating everyday workflows.
+* 🌱 **Frontend:** Experimenting with **HTML, CSS, and JavaScript** interfaces.
+* 🥋 **Discipline:** Home calisthenics, deep problem-solving, and continuous growth.
+* ⚡ **Vibe:** Dark aesthetics, anime, and clean architecture.
+
+---
 
 ### ✦ 𝐓𝐞𝐜𝐡 𝐀𝐫𝐬𝐞𝐧𝐚𝐥
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### ✦ 𝐒𝐡𝐚𝐫𝐢𝐧𝐠𝐚𝐧 𝐒𝐭𝐚𝐭𝐬
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-codes-07&theme=blood&background=0D1117&border=E50914&stroke=E50914&ring=E50914&fire=E50914" alt="GitHub Streak" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes-07&layout=compact&theme=radical&bg_color=0D1117&title_color=E50914&text_color=ffffff&border_color=E50914" alt="Top Langs" width="45%" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>✦ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h3>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/itachii0007">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
