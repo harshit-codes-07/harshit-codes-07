@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  
-  <!-- <img src="itachi.jpg" width="250" alt="Itachi Uchiha" />. Abhi ke liye maine ek default Itachi GIF lagaya hai -->
-  <img src="https://media.tenor.com/tC6F2V5Y8gAAAAAC/itachi-uchiha.gif" width="250" alt="Itachi Uchiha" />
-  
+
+  <!-- 🔥 APNI ITACHI KI PHOTO KO YAHAN DRAG KARKE DROP KAREIN 🔥 -->
+ 
+ <img width="400" height="711" alt="image" src="https://github.com/user-attachments/assets/14cb9d5f-a27f-4fe1-966e-78f7f7f4f816" />
+ 
+
   <br>
 
   # ⋆ ˚｡⋆ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 ⋆ ˚｡⋆
@@ -54,8 +56,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3>✦ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h3>
-  <!-- Apna Telegram link niche href="" ke andar daal dena -->
-  <a href="https://t.me itachii0007">
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
