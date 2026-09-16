@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+<!-- ITACHI PORTFOLIO SHOWCASE -->
+<p align="left">
+  <a href="https://harshit-codes-07.github.io/itachii0007/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-ITACHII0007-e60026?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+  </a>
+  <a href="https://harshit-codes-07.github.io/itachii0007/" target="_blank">
+    <img src="https://img.shields.io/badge/👁️_MANGEKYO_WALLPAPER-LIVE-111117?style=for-the-badge&logo=firefoxbrowser&logoColor=ff1744" alt="Sharingan Live">
+  </a>
+</p>
 <!--
 **harshit-codes-07/harshit-codes-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
