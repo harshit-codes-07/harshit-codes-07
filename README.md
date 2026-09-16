@@ -67,7 +67,7 @@ Passionate about **Python**, **Web Development**, and solving complex problems.
 
 ---
 
----### ✦ 𝐒𝐡𝐚𝐫𝐢𝐧𝐠𝐚𝐧 𝐒𝐭𝐚𝐭𝐬
+### ✦ 𝐒𝐡𝐚𝐫𝐢𝐧𝐠𝐚𝐧 𝐒𝐭𝐚𝐭𝐬
 <div align="left">
   <!-- Itachi Stats Card -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit-codes-07&show_icons=true&bg_color=000000&title_color=E50914&text_color=ffffff&icon_color=E50914&border_color=E50914&border_width=2" alt="Itachi Stats" width="48%" />
@@ -82,13 +82,20 @@ Passionate about **Python**, **Web Development**, and solving complex problems.
   <!-- Shinobi Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=harshit-codes-07&theme=dark&background=000000&border=E50914&stroke=E50914&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E50914" alt="Shinobi Streak" width="94%" />
 </div>
-</div>
+
+<br>
+
 ### ✦ 𝐒𝐡𝐢𝐧𝐨𝐛𝐢 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-codes-07/harshit-codes-07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-codes-07/harshit-codes-07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshit-codes-07/harshit-codes-07/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-codes-07/harshit-codes-07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-codes-07/harshit-codes-07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshit-codes-07/harshit-codes-07/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
 ### ✦ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 <div align="left">
   <a href="https://t.me/itachii0007">
